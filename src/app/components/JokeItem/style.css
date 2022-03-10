@@ -1,0 +1,14 @@
+.list-item {
+    padding: 20px;
+    border: 2px solid #fe6637;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000;
+    margin-bottom: 15px;
+}
+
+.icon-box {
+    margin-right: 10px;
+}
